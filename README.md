@@ -32,17 +32,6 @@ This repository contains Java programs demonstrating operations on arrays and Ar
   
   ```java
   String[] newArray = arrayList.toArray(new String[0]);
-## How to Run
--Compile and run each file separately:
-
--javac EvenOddArrays.java
--java EvenOddArrays
-
--javac SmallestDistance.java
--java SmallestDistance
-
--javac ArrayConversion.java
--java ArrayConversion
 
 ## Requirements
 -Java (JDK) installed
