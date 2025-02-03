@@ -33,6 +33,6 @@ This repository contains Java programs demonstrating operations on arrays and Ar
   ```java
   String[] newArray = arrayList.toArray(new String[0]);
 
-## Requirements
--Java (JDK) installed
--Basic Java knowledge
+### Requirements:  
+- Java Development Kit (JDK) installed  
+- Basic understanding of Java programming
